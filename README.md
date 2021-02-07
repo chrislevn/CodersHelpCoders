@@ -26,6 +26,7 @@ Future developments once we get more members:
 
 Contributing by 
 - Make comments on the resume in the "Issues" section
+- Contribute to our list of resources
 
 Join our Discord for 
 - news, updates 
