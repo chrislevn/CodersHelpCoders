@@ -15,14 +15,7 @@ List of learning resources
 ### 1. Join a community of like-minded techie: 
 https://discord.gg/3FYPBGJy
 
-### 2. Get resume reviewed by peers in tech industry: 
-**How to submit your resume:**
-> - In the title, follow "Your full name - The company and the position you want to apply for - Applying time". For example, Christopher Le - Tiktok Software Engineer Intern - Summer 2021
-> - Follow the guideline in the comment section.
-> - When you are satisfied with the comment, remember to **close the issue**. Issues last more than 30 days will be automatically closed. 
-
-##### These guidelines are made to help us better navigating your resume. Failing to follow the guideline might not get your resume reviewed.
-##### Notice: By submiting your resume, you have allowed us to view, make comments on your resume. 
+### 2. Create *a new issue* with your resume to get it reviewed
 
 ### 3. Access latest opportunities shared by members all around the world Some of the benefits are: 
 - Get latest news
