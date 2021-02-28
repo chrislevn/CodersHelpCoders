@@ -13,7 +13,7 @@ List of learning resources
 
 ## Why you should join us: 
 ### 1. Join a community of like-minded techie: 
-https://discord.com/invite/3by8GXPc
+https://discord.gg/3FYPBGJy
 
 ### 2. Get resume reviewed by peers in tech industry: 
 **How to submit your resume:**
