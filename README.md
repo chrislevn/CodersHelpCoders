@@ -12,7 +12,7 @@ A repository to help young coders get their opportunities
 [List of learning resources](https://github.com/chrislevn/CodersHelpCoders/tree/main/Learning%20Resources)
 
 ## Why you should join us: 
-### 1. Join a community of like-minded techie: 
+### 1. Join a community of like-minded techies: 
 https://discord.gg/3FYPBGJy
 
 ### 2. Create *a new issue* with your resume to get it reviewed
