@@ -8,9 +8,6 @@
 
 
 ## Online courses
-
-
-
 ### Prepare for coding interview
 
 | Name | Link | Language | Type
@@ -32,6 +29,8 @@
 
 
 ### Web Development
+| Name | Link | Language | Type
+| -------- | -------- | -------- | -------- |
 | Udemy's The Web Developer Bootcamp 2021 | https://bit.ly/3kuDZbD | Python | Blog course  |
 
 
