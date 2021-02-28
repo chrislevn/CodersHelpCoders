@@ -25,6 +25,13 @@
 | HooHacks | Virtual | Mar 27TH - 28TH | https://www.hoohacks.io/ |
 
 
+## Host by DevPost
+| Name | Type | Date | Link
+| -------- | -------- | -------- | -------- |
+| Meraki Virtual Hackathon Latam | Virtual | March 5 | https://hack-cisco-meraki-latinamerica.devpost.com/?ref_feature=challenge&ref_medium=home |
+| Twitch Channel Points | Virtual | Mar 15 – 26| https://twitchchannelpoints.devpost.com/?ref_feature=challenge&ref_medium=discover |
+| Cosmos HackAtom | Virtual | Mar 15 – 26 | https://hackatom-ru.devpost.com/?ref_feature=challenge&ref_medium=home |
+
 ---
 
 ## Data contests by Kaggle
