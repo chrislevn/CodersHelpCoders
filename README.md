@@ -15,15 +15,15 @@ A repository to help young coders get their opportunities
 ### 1. Join a community of like-minded techies: 
 https://discord.gg/3FYPBGJy
 
-### 2. Create *a new issue* with your resume to get it reviewed
-##### Track your resume's versions overtime by filtering "Author" in the Issue section with your Github username
-
-### 3. Access latest opportunities shared by members all around the world Some of the benefits are: 
+##### Some of the benefits are: 
 - Get latest news
 - Find referrals for your company
 - Find teammate for your projects/hackathons
-- Get helps for your coding problems
+- Get helps for your coding problems </br>
 ...
+
+### 2. Create *a new issue* with your resume to get it reviewed
+##### Track your resume's versions overtime by filtering "Author" in the Issue section with your Github username
 
 
 🤗 **Contributing by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request) or filling in this [form](https://forms.gle/ujkessKAEgd2hUzJ7)** 🤗
