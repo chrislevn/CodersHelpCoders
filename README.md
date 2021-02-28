@@ -25,7 +25,7 @@ https://discord.gg/3FYPBGJy
 ...
 
 
-🤗 **Contributing by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request) or filling in this [form]()** 🤗
+🤗 **Contributing by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request) or filling in this [form](https://forms.gle/ujkessKAEgd2hUzJ7)** 🤗
 
 
 If you like this repo, feel free to leave a ⭐. It means alot to us.
