@@ -5,7 +5,8 @@ List of 2021's events
 
 [List of 2021's conferences](https://github.com/chrislevn/CodersHelpCoders/tree/main/2021/Conferences)
 
-[List of 2021's job postings](https://github.com/chrislevn/CodersHelpCoders/tree/main/2021/Jobs/Spring%20-%20Internship)
+[List of 2021's job postings](https://github.com/chrislevn/CodersHelpCoders/tree/main/2021/Jobs/Spring%20-%20Internship) - 
+[Spring](https://github.com/chrislevn/CodersHelpCoders/tree/main/2021/Jobs/Spring%20-%20Internship) - [Summer](https://github.com/chrislevn/CodersHelpCoders/tree/main/2021/Jobs/Summer%20-%20Internship)
 
 [List of 2021's hackathons](https://github.com/chrislevn/CodersHelpCoders/tree/main/2021/Hackathons)
 
