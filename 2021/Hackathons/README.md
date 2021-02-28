@@ -33,6 +33,14 @@
 | Cosmos HackAtom | Virtual | Mar 15 – 26 | https://hackatom-ru.devpost.com/?ref_feature=challenge&ref_medium=home |
 
 ---
+## Coding contests 
+| Name | Type | Date | Link | 
+| -------- | -------- | -------- | -------- | 
+| Google Kickstart | Virtual | Until Nov 14 | https://codingcompetitions.withgoogle.com/kickstart |
+| Google CodeJam | Virtual | Mar 27 | https://codingcompetitions.withgoogle.com/codejam |
+| AWS Deep Racer | Virtual | Unknown | https://aws.amazon.com/deepracer/ |
+
+---
 
 ## Data contests by Kaggle
 | Name | Description | Type | Deadline | Link
