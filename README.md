@@ -7,7 +7,7 @@ A repository to help young coders get their opportunities
 
 [List of 2021's job postings](https://github.com/chrislevn/CodersHelpCoders/tree/main/2021/Jobs/Spring%20-%20Internship)
 
-[List of 2021's hackathons](https://github.com/chrislevn/CodersHelpCoders/tree/main/2021/Hackathons)
+[List of 2021's hackathons/contests](https://github.com/chrislevn/CodersHelpCoders/tree/main/2021/Hackathons)
 
 [List of learning resources](https://github.com/chrislevn/CodersHelpCoders/tree/main/Learning%20Resources)
 
