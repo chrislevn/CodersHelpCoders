@@ -6,5 +6,6 @@
 | Google Capture the Flag | Virtual | Anytime | https://capturetheflag.withgoogle.com/ |
 | Code/Art Fest 2021 | Virtual | March 20 | https://hopin.com/events/caf2021 |
 | Microsoft Ignite 2021 | Virtual | March 2-4 | https://microsoft.com/en-us/ignite |
+| Microsoft Build | Virtual | TBA | https://mybuild.microsoft.com/ |
 
 ---
