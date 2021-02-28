@@ -1,9 +1,9 @@
 # CodersHelpCoders
 A repository to help young coders get their opportunities 
 
-List of 2021's conferences
+List of 2021's events
 
-[List of 2021's events](https://github.com/chrislevn/CodersHelpCoders/tree/main/2021/Conferences)
+[List of 2021's conferences](https://github.com/chrislevn/CodersHelpCoders/tree/main/2021/Conferences)
 
 [List of 2021's job postings](https://github.com/chrislevn/CodersHelpCoders/tree/main/2021/Jobs/Spring%20-%20Internship)
 
