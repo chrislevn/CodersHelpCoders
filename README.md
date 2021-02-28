@@ -15,7 +15,7 @@ A repository to help young coders get their opportunities
 ### 1. Join a community of like-minded techies: 
 https://discord.gg/3FYPBGJy
 
-##### Some of the benefits are: 
+#### Some of the benefits are: 
 - Get latest news
 - Find referrals for your company
 - Find teammate for your projects/hackathons
@@ -26,7 +26,8 @@ https://discord.gg/3FYPBGJy
 ##### Track your resume's versions overtime by filtering "Author" in the Issue section with your Github username
 
 
-🤗 **Contributing by submitting a [pull request](https://github.com/susam/gitpr#create-pull-request) or filling in this [form](https://forms.gle/ujkessKAEgd2hUzJ7)** 🤗
+### Contributing by
+🤗 **submitting a [pull request](https://github.com/susam/gitpr#create-pull-request) or filling in this [form](https://forms.gle/ujkessKAEgd2hUzJ7)** 🤗
 #### Use [HackMD.io](https://hackmd.io/) to get familiar with Markdown
 
 If you like this repo, feel free to leave a ⭐. It means alot to us.
