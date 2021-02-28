@@ -16,6 +16,7 @@ A repository to help young coders get their opportunities
 https://discord.gg/3FYPBGJy
 
 ### 2. Create *a new issue* with your resume to get it reviewed
+##### Track your resume's versions overtime by filtering "Author" in the Issue section with your Github username
 
 ### 3. Access latest opportunities shared by members all around the world Some of the benefits are: 
 - Get latest news
