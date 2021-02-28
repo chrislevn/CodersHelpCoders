@@ -5,7 +5,7 @@
 | Design for Underrepresented Students | Virtual | March 29-April 3 | https://designforus.dev |
 | Harvard WeCode 2021 | Virtual | March 6-7 | https://www.harvardwecode.com/ |
 
-*events are still in process of updating.* ```test```
+*events are still in process of updating.* ```test``` hsijdifjas
 
 
 ---
