@@ -1,7 +1,7 @@
 # Coders Help Coders
 A repository to help young coders get their opportunities 
 
-List of 2021's events
+[List of 2021's events](https://github.com/chrislevn/CodersHelpCoders/tree/main/2021/Events)
 
 [List of 2021's conferences](https://github.com/chrislevn/CodersHelpCoders/tree/main/2021/Conferences)
 
