@@ -12,7 +12,6 @@
 
 | Name | Link | Language | Type
 | -------- | -------- | -------- | -------- |
-| Cracking the Coding Interview     | https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850     | Java | Book     |
 | Grokking the coding interview     | https://www.educative.io/courses/grokking-the-coding-interview?source=post_page | All | Online course     |
 | Leetcode   | https://leetcode.com/ | All | Online platform  |
 
@@ -32,6 +31,19 @@
 | Name | Link | Language | Type
 | -------- | -------- | -------- | -------- |
 | Udemy's The Web Developer Bootcamp 2021 | https://bit.ly/3kuDZbD | Python | Blog course  |
+
+
+## Books:
+### Data 
+| Name | Link | Type | Source/ Author
+| -------- | -------- | -------- | -------- |
+| The Data Engineering Cookbook | https://drive.google.com/file/d/1rbtho5MfdBiIAj9RcVi0mGwmUyyCMnhk/view?usp=sharing | Python | Mengyao Wang  |
+
+### Coding Interview
+| Name | Link | Type | Source
+| -------- | -------- | -------- | -------- |
+| Cracking the Coding Interview     | https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850   | Book | Gayle Laakmann McDowell      |
+
 
 
 
