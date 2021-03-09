@@ -15,7 +15,7 @@ A repository to help young coders get their opportunities
 
 ## Why you should join us: 
 ### 1. Join a community of like-minded techies: 
-https://discord.gg/sb5uKGQ8CF
+https://discord.gg/MHA8dZt6V4
 
 #### Some of the benefits are: 
 - Get latest news
