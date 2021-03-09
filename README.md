@@ -9,6 +9,8 @@ A repository to help young coders get their opportunities
 
 [List of 2021's hackathons/contests](https://github.com/chrislevn/CodersHelpCoders/tree/main/2021/Hackathons)
 
+[List of 2021's Scholarships](https://github.com/chrislevn/CodersHelpCoders/tree/main/2021/Scholarships)
+
 [List of learning resources](https://github.com/chrislevn/CodersHelpCoders/tree/main/Learning%20Resources)
 
 ## Why you should join us: 
