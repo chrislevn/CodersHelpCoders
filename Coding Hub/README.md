@@ -18,6 +18,7 @@
 | Git Status | ```git status```|
 | Push branch to remote repository| ```git push <server_name> <branchname>```|
 | Push all branches to remote repository | ```git push --all origin```|
+| Push local branch to remote branch | ```git push <remote> <local_branch>:<remote_name>```|
 |Update branch from remote repository| ```git pull```|
 | Get new copy of data from remote repository| ```git fetch <server_name>```|
 | Get Git logs| ```git log```|
