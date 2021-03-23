@@ -7,6 +7,8 @@
 | Create a new local repository | ```git init```|
 | Create new branch | ```git checkout -b <branch_name> ```|
 | List all branches | ``` git branch```|
+| Switch to branch | ``` git switch <branch_name>```|
+| Switch to branch and merge with previous branch| ```git checkout <branch_name>```|
 | Delete branch | ``` git branch -d <branch_name> ```|
 | Commit to branch | ```git commit -m "Your Commit message"```|
 | Merge current branch with other branch | ```git merge <other_branch_name> ```
