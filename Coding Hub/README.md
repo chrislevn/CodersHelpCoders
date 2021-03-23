@@ -25,8 +25,8 @@
 | Add tag to branch | ```git tag -a v1.4 -m "my version 1.4"``` |
 | Show tags | ```git tags```|
 | Delete tag | ```git tag -d <tag_name>```|
-| Delete tag from remote repository | ```git push <server_name> :refs/tags/<tagname>``` or ```git push origin --delete <tagname>```|
-| Push all tags to remote repository | ```git push origin --tags ```|
+| Delete tag from remote repository | ```git push <server_name> :refs/tags/<tagname>``` or ```git push <server_name> --delete <tagname>```|
+| Push all tags to remote repository | ```git push <server_name> --tags ```|
 | Checkout tags to branch | ```git checkout <version>```|
 
 Hey Coder, you can read more about Git [here](https://git-scm.com/doc)
