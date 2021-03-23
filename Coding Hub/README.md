@@ -22,12 +22,12 @@
 |Update branch from remote repository| ```git pull```|
 | Get new copy of data from remote repository| ```git fetch <server_name>```|
 | Get Git logs| ```git log```|
-| Add tag to branch | ```git tag -a v1.4 -m "my version 1.4"``` |
+| Add tag to branch | ```git tag -a v1.4 -m "my tag version 1.4"``` |
 | Show tags | ```git tags```|
-| Delete tag | ```git tag -d <tag_name>```|
-| Delete tag from remote repository | ```git push <server_name> :refs/tags/<tagname>``` or ```git push <server_name> --delete <tagname>```|
+| Delete tag | ```git tag -d <tag_version>```|
+| Delete tag from remote repository | ```git push <server_name> :refs/tags/<tagname>``` or ```git push <server_name> --delete <tag_version>```|
 | Push all tags to remote repository | ```git push <server_name> --tags ```|
-| Push single tag to remote repository| ```git push <server_name> <tag_name>```|
-| Checkout tags to branch | ```git checkout <version>```|
+| Push single tag to remote repository| ```git push <server_name> <tag_version>```|
+| Checkout tags to branch | ```git checkout <tag_version>```|
 
 Hey Coder, you can read more about Git [here](https://git-scm.com/doc)
