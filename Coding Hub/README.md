@@ -16,7 +16,7 @@
 | List all remotes | ```git remote -v ```|
 | Delete remote | ```git remote rm <server_name>```|
 | Git Status | ```git status```|
-| Push branch to remote repository| ```git push <server_name> <branchname>```|
+| Push branch to remote repository| ```git push <server_name> <branch_name>```|
 | Push all branches to remote repository | ```git push --all origin```|
 | Push local branch to remote branch | ```git push <remote> <local_branch>:<remote_name>```|
 |Update branch from remote repository| ```git pull```|
@@ -25,7 +25,7 @@
 | Add tag to branch | ```git tag -a v1.4 -m "my tag version 1.4"``` |
 | Show tags | ```git tags```|
 | Delete tag | ```git tag -d <tag_version>```|
-| Delete tag from remote repository | ```git push <server_name> :refs/tags/<tagname>``` or ```git push <server_name> --delete <tag_version>```|
+| Delete tag from remote repository | ```git push <server_name> :refs/tags/<tag_version>``` or ```git push <server_name> --delete <tag_version>```|
 | Push all tags to remote repository | ```git push <server_name> --tags ```|
 | Push single tag to remote repository| ```git push <server_name> <tag_version>```|
 | Checkout tags to branch | ```git checkout <tag_version>```|
