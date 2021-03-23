@@ -1,6 +1,6 @@
 # Coding Hub 
 ## Git cheatsheet
-| Task | Git Command
+| Task | Git Command |
 | -------- | -------- |
 | Tell Git your name | ```git config --global user.name "Sam Smith" ```|
 | Tell Git your email | ``` git config --global user.email sam@example.com ```|
@@ -28,6 +28,7 @@
 | Delete tag from remote repository | ```git push <server_name> :refs/tags/<tag_version>``` or ```git push <server_name> --delete <tag_version>```|
 | Push all tags to remote repository | ```git push <server_name> --tags ```|
 | Push single tag to remote repository| ```git push <server_name> <tag_version>```|
+| Fetch all tags from remote repository| ```git fetch --tags```|
 | Checkout tags to branch | ```git checkout <tag_version>```|
 | Create tag from commit reference | ```git tag <tag_version> <reference_of_commit>```|
 
