@@ -31,5 +31,7 @@
 | Fetch all tags from remote repository| ```git fetch --tags```|
 | Checkout tags to branch | ```git checkout <tag_version>```|
 | Create tag from commit reference | ```git tag <tag_version> <reference_of_commit>```|
+| Create new branch from tag | ```git checkout -b <new_branch_name> <tag_version>```|
+
 
 Hey Coder, you can read more about Git [here](https://git-scm.com/doc)
