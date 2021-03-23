@@ -25,7 +25,7 @@
 | Add tag to branch | ```git tag -a v1.4 -m "my version 1.4"``` |
 | Show tags | ```git tags```|
 | Delete tag | ```git tag -d <tag_name>```|
-| Push tag to remote repository | ```git push <server_name> :refs/tags/<tagname>```|
+| Delete tag from remote repository | ```git push <server_name> :refs/tags/<tagname>``` or ```git push origin --delete <tagname>```|
 | Push all tags to remote repository | ```git push origin --tags ```|
 | Checkout tags to branch | ```git checkout <version>```|
 
