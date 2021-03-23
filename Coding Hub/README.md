@@ -29,7 +29,7 @@
 | Push all tags to remote repository | ```git push <server_name> --tags ```|
 | Push single tag to remote repository| ```git push <server_name> <tag_version>```|
 | Fetch all tags from remote repository| ```git fetch --tags```|
-| Checkout tags to branch | ```git checkout <tag_version>```|
+| Checkout tags to current branch | ```git checkout <tag_version>```|
 | Create tag from commit reference | ```git tag <tag_version> <reference_of_commit>```|
 | Create new branch from tag | ```git checkout -b <new_branch_name> <tag_version>```|
 
