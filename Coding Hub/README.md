@@ -27,6 +27,7 @@
 | Delete tag | ```git tag -d <tag_name>```|
 | Delete tag from remote repository | ```git push <server_name> :refs/tags/<tagname>``` or ```git push <server_name> --delete <tagname>```|
 | Push all tags to remote repository | ```git push <server_name> --tags ```|
+| Push single tag to remote repository| ```git push <server_name> <tag_name>```|
 | Checkout tags to branch | ```git checkout <version>```|
 
 Hey Coder, you can read more about Git [here](https://git-scm.com/doc)
