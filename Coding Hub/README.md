@@ -1,0 +1,25 @@
+# Coding Hub 
+## Git cheatsheet
+| Task | Git Command
+| -------- | -------- |
+| Tell Git your name | ```git config --global user.name "Sam Smith" ```|
+| Tell Git your email | ``` git config --global user.email sam@example.com ```|
+| Create a new local repository | ```git init```|
+| Create new branch | ```git checkout -b <branch_name> ```|
+| List all branches | ``` git branch```|
+| Delete branch | ``` git branch -d <branch_name> ```|
+| Commit to branch | ```git commit -m "Your Commit message"```|
+| Merge current branch with other branch | ```git merge <other_branch_name> ```
+| Add files to commit| ```git add <filename>``` or ```git add * ```|
+| Commit all files | ```git commit -a```|
+| Add remote repository | ```git remote add <server_name> <server_address>```|
+| List all remotes | ```git remote -v ```|
+| Delete remote | ```git remote rm <server_name>```|
+| Git Status | ```git status```|
+| Push branch to remote repository| ```git push <server_name> <branchname>```|
+| Push all branches to remote repository | ```git push --all origin```|
+|Update branch from remote repository| ```git pull```|
+| Get new copy of data from remote repository| ```git fetch <server_name>```|
+| Get Git logs| ```git log```|
+
+Hey Coder, you can read more about Git [here](https://git-scm.com/doc)
