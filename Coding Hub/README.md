@@ -21,7 +21,8 @@
 | Push local branch to remote branch| ```git push <server_name> <branch_name>```|
 | Push all branches to remote repository | ```git push --all origin```|
 | Push local branch to other remote branch | ```git push <remote> <local_branch>:<remote_name>```|
-| Push local branch to remove repository | ```git push --set-upstream <server_name> <branch_name>```|
+| Push local branch to remote repository | ```git push --set-upstream <server_name> <branch_name>```|
+| Push local branch to remote branch (if current local branch is available in remote repository) | ```git push```|
 |Update branch from remote repository| ```git pull```|
 | Get new copy of data from remote repository| ```git fetch <server_name>```|
 | Get Git logs| ```git log```|
