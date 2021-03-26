@@ -14,6 +14,7 @@
 | Change commit message | ```git commit --amend “Your new changes.”```|
 | Merge current branch with other branch | ```git merge <other_branch_name> ```
 | Add files to commit| ```git add <filename>``` or ```git add * ```|
+| Add all files and commit| ```git commit -a -m “Your message here”```|
 | Commit all files | ```git commit -a```|
 | Add remote repository | ```git remote add <server_name> <server_address>```|
 | List all remotes | ```git remote -v ```|
