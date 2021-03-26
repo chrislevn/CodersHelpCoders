@@ -11,6 +11,7 @@
 | Switch to branch and merge with previous branch| ```git checkout <branch_name>```|
 | Delete branch | ``` git branch -d <branch_name> ```|
 | Commit to branch | ```git commit -m "Your Commit message"```|
+| Change commit message | ```git commit --amend “Your new changes.”```|
 | Merge current branch with other branch | ```git merge <other_branch_name> ```
 | Add files to commit| ```git add <filename>``` or ```git add * ```|
 | Commit all files | ```git commit -a```|
