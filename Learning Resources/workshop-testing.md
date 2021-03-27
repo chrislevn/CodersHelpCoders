@@ -10,8 +10,8 @@ This is some descriptive text
 
 I guess we need to make a table
 
-| Column 1 | Column 2  |     Column 3     |
-| -------- | --------- | ---------------- |
-| Text     | More Text | | They said it wasn't possible | But we did it anyway | A Nested Table! | 
-                         | ---------------------------- | -------------------- | --------------- |
-                         | Some stuff                   | Some other stuff     |   Wow!          |
+| Column 1 | Column 2  |     Column 3                                   |
+| -------- | --------- | ---------------------------------------------- |
+| Text     | More Text | As it turns out, nested tables aren't all that |
+| -------- | --------- | ---------------------------------------------- |
+|          |           |                    😔                          |
