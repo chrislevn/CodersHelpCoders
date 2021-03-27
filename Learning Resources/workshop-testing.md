@@ -4,10 +4,12 @@
 
 ⬇ Put your creation down here
 
-Hello World! this line
+# This is a title
 
-Example 1 of creating a table
-| Column 1 | 2 | 3 | 4 | 
-| -------- | -------- | -------- | -------- |
-| | | | |
-ILyas
+This is some descriptive text
+
+I guess we need to make a table
+
+| Column 1 | Column 2  |     Column 3     |
+| -------- | --------- | ---------------- |
+| Text     | More Text | Even Longer Text |
