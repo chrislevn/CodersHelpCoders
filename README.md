@@ -1,7 +1,5 @@
 ![](Assets/logo.png)
-A repository to help young coders get their opportunities.
-
-----Hello!!!-----
+A repository to help young coders get their opportunities
 
 [List of 2021's events](https://github.com/chrislevn/CodersHelpCoders/tree/main/2021/Events)
 
