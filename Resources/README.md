@@ -44,6 +44,10 @@
 | -------- | -------- | -------- | -------- |
 | Cracking the Coding Interview     | https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850   | Book | Gayle Laakmann McDowell      |
 
+### Useful Platforms
+| Name | Link | Info | Cost |
+| -------- | -------- | -------- | -------- |
+| Flourish | [Click here](https://app.flourish.studio/) | Data Visualization | Free |
 
 
 
