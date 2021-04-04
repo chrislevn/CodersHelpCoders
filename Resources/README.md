@@ -48,6 +48,7 @@
 | Name | Link | Info | Cost |
 | -------- | -------- | -------- | -------- |
 | Flourish | [Click here](https://app.flourish.studio/) | Data Visualization | Free |
+| Netlify | [Click here](https://www.netlify.com/) | Deploy Website Fast Through GitHub Repo | Free for experimenting |
 
 
 
